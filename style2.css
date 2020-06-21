@@ -1,0 +1,18 @@
+.card {
+  max-width: 350px;
+  padding: 40px 40px;
+  background-color: #f7f7f7;
+  margin: 0 auto 25px;
+  margin-top: 100px;
+
+}
+
+.profile-img {
+  width: 40%;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+/* ------------------------------------------------------------- */
+
